@@ -1,0 +1,19 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+
+.regsiter-part{
+    width:100%;
+    background: url(./texture9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height:100vh;
+    color:white;
+}
+
+.regsiter-part p{
+    text-align: center;
+    /* margin-top:50px; */
+}
